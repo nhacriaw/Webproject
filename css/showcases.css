@@ -1,0 +1,53 @@
+.titleS h1 {
+    text-align: center;
+    font-size: 100px;
+    left: 7%;
+    font-family: 'Poiret One', cursive;
+    position: absolute;
+}
+
+.wd1 {
+    text-align: right;
+}
+
+.wd1 h2 {
+    top: 15%;
+    font-size: 70px;
+    right: 10%;
+    position: absolute;
+}
+
+.wd1 img {
+    margin: 160px 190px 0 0px
+}
+
+.wd2 {
+    text-align: left;
+}
+
+.wd2 h2 {
+    top: 109%;
+    font-size: 70px;
+    left: 19%;
+    position: absolute;
+}
+
+.wd2 img {
+    margin: 160px 0px 0 320px
+}
+
+.wd3 {
+    text-align: center;
+}
+
+.wd3 h2 {
+    top: 190%;
+    font-size: 70px;
+    left: 30%;
+    right: 30%;
+    position: absolute;
+}
+
+.wd3 img {
+    margin: 380px 0px 100px 0px
+}

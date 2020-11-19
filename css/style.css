@@ -1,0 +1,156 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cinzel', serif;
+    scroll-behavior: smooth;
+}
+
+.nav {
+    text-align: center;
+}
+
+.nav ul {
+    margin: 0;
+    margin-right: 20px;
+}
+
+.nav li {
+    list-style: none;
+    display: inline-block;
+    padding: 20px 0 20px 0;
+    padding-right: 20px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: white;
+    font-size: 25 px;
+    padding: 20px;
+}
+
+.nav li a:hover {
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+
+header {
+    background-position: center;
+    background-size: cover;
+}
+
+.banner {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    padding-bottom: 220px;
+}
+
+.banner p {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 144px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.banner button {
+    margin-top: 20px;
+    border: none;
+    padding: 13px 20px;
+    border-radius: 50px;
+    font-family: 'Poiret One', cursive;
+}
+
+.descript {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Cinzel', serif;
+    margin: 120px 20px 90px 20px;
+}
+
+.descript h2 {
+    border-bottom: 1px solid black;
+    line-height: 10px;
+    margin: 20px;
+}
+
+.descript span {
+    background-color: white;
+    padding: 30px;
+}
+
+.descript p {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.contain {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    margin-top: 90px;
+    margin-bottom: 190px;
+}
+
+.contain a {
+    text-decoration: none;
+    color: black;
+}
+
+.contain a:hover {
+    color: #8A0000;
+    transition: 1s;
+}
+
+.contain img {
+    border-radius: 40px;
+}
+
+.contain img,
+h3,
+p {
+    margin-top: 90px;
+    display: inline-block;
+    margin: 0;
+}
+
+.contain h3 {
+    font-size: 90px;
+}
+
+.contain p {
+    font-size: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 70px;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    padding-bottom: 20px;
+}
+
+footer ul,
+p {
+    text-align: center;
+}
+
+footer p {
+    padding-bottom: 20px;
+}
+
+footer ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 20px 20px 0 0;
+}
