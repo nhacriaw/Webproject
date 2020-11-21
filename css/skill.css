@@ -1,0 +1,43 @@
+.titleS {
+    text-align: center;
+    margin-top: 120px;
+    border: 3px 3px 3px 3px black;
+    margin-bottom: 250px;
+}
+
+.titleS h1 {
+    margin-bottom: 0;
+    font-size: 160px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+.titleS p {
+    font-size: 30px;
+}
+
+.cs {
+    margin-left: 230px;
+}
+
+.cs h2 {
+    margin-left: 230px;
+    font-size: 60px;
+}
+
+.fs {
+    margin-bottom: 100px;
+    margin-right: 230px;
+    text-align: right;
+}
+
+.fs h2 {
+    margin-right: 230px;
+    font-size: 60px;
+}
+
+.fs p {
+    text-align: center;
+    margin-right: 230px;
+    font-size: 30px;
+}

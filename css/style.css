@@ -27,6 +27,7 @@ body {
     color: white;
     font-size: 25 px;
     padding: 20px;
+    font-family: 'Poiret One', cursive;
 }
 
 .nav li a:hover {

@@ -1,0 +1,112 @@
+.titleE {
+    text-align: center;
+    margin-top: 120px;
+    border: 3px 3px 3px 3px black;
+}
+
+.titleE h1 {
+    font-size: 160px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+.titleE p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    margin-bottom: 120px;
+}
+
+.emaincontain {
+    text-align: center;
+    position: relative;
+}
+
+.emaincontain p {
+    font-size: 300px;
+    margin: 0;
+    padding: 0;
+}
+
+.cen1 {}
+
+.cen1 h1 {
+    font-family: 'Poiret One', cursive;
+    font-size: 200px;
+    left: 10%;
+    top: 20%;
+    position: absolute;
+}
+
+.cen2 h1 {
+    font-family: 'Poiret One', cursive;
+    font-size: 200px;
+    right: 5%;
+    top: 20%;
+    position: absolute;
+}
+
+.rb {
+    background-color: white;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.rb img {
+    margin-bottom: 120px;
+}
+
+.rb h2 {
+    margin-top: 90px;
+    font-size: 50px;
+    border-bottom: 3px solid black;
+    line-height: 10px;
+    margin: 50px;
+    margin-bottom: 130px;
+}
+
+.rb p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.rb span {
+    background-color: white;
+}
+
+.cen3 h1 {
+    font-family: 'Poiret One', cursive;
+    font-size: 200px;
+    left: 3%;
+    top: 70%;
+    position: absolute;
+}
+
+.cen4 h1 {
+    font-family: 'Poiret One', cursive;
+    font-size: 200px;
+    right: 10%;
+    top: 70%;
+    position: absolute;
+}
+
+.kmutt {
+    text-align: center;
+    margin-bottom: 350px;
+}
+
+.kmutt img {
+    margin-bottom: 90px;
+}
+
+.kmutt h2 {
+    border-bottom: 3px solid black;
+    line-height: 10px;
+    margin: 50px;
+    font-size: 50px;
+    margin-bottom: 150px;
+}
+
+.kmutt span {
+    background-color: white;
+}

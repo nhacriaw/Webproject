@@ -8,10 +8,11 @@
 
 .wd1 {
     text-align: right;
+    position: relative;
 }
 
 .wd1 h2 {
-    top: 15%;
+    top: 10%;
     font-size: 70px;
     right: 10%;
     position: absolute;
@@ -23,10 +24,11 @@
 
 .wd2 {
     text-align: left;
+    position: relative;
 }
 
 .wd2 h2 {
-    top: 109%;
+    top: 10%;
     font-size: 70px;
     left: 19%;
     position: absolute;
@@ -38,10 +40,11 @@
 
 .wd3 {
     text-align: center;
+    position: relative;
 }
 
 .wd3 h2 {
-    top: 190%;
+    top: 10%;
     font-size: 70px;
     left: 30%;
     right: 30%;
